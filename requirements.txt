@@ -8,3 +8,4 @@ seaborn
 statsmodels
 geopandas
 scikit-learn
+polars
