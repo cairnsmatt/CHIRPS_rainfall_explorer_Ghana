@@ -97,9 +97,11 @@ outcome_dictionary = {
 
 # %%
 # Directories - assuming streamlit is at first level below project (and sibling to project/src)
-streamlit_folder = os.getcwd()
+# streamlit_folder = os.getcwd()
 
-project_folder = os.path.dirname(streamlit_folder)
+# project_folder = os.path.dirname(streamlit_folder)
+
+project_folder = str(project_root)
 src_folder = os.path.join(project_folder, 'src')
 processed_data_folder = os.path.join(project_folder, 'data', 'processed', 'CHIRPS_monthly_data')
 seasonality_metrics_folder = os.path.join(project_folder, 'data', 'processed', 'CHIRPS_monthly_seasonality_metrics')
