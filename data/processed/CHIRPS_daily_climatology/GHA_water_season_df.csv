@@ -1,0 +1,179 @@
+﻿GID_0,NAME_1,NAME_2,onset_doy,cessation_doy,onset_minus_50,cessation_plus_50
+GHA,Ahafo,Asunafo North,69,305,19,355
+GHA,Ahafo,Asunafo South,65,305,15,355
+GHA,Ahafo,Asutifi North,70,305,20,355
+GHA,Ahafo,Asutifi South,59,304,9,354
+GHA,Ahafo,Tano North,70,304,20,354
+GHA,Ahafo,Tano South,70,305,20,355
+GHA,Ashanti,Adansi Akrofuom,71,304,21,354
+GHA,Ashanti,Afigya-Kwabre North,71,305,21,355
+GHA,Ashanti,Afigya-Kwabre South,76,304,26,354
+GHA,Ashanti,Ahafo-Ano North,66,304,16,354
+GHA,Ashanti,Ahafo-Ano South East,71,304,21,354
+GHA,Ashanti,Ahafo-Ano South West,66,304,16,354
+GHA,Ashanti,Amansie Central,65,304,15,354
+GHA,Ashanti,Amansie South,65,310,15,360
+GHA,Ashanti,Asante-Akim Central,66,304,16,354
+GHA,Ashanti,Asante-Akim North,66,305,16,355
+GHA,Ashanti,Asante-Akim South,66,304,16,354
+GHA,Ashanti,Asokore-Mampong,76,305,26,355
+GHA,Ashanti,Asokwa,76,305,26,355
+GHA,Ashanti,Atwima-Kwanwoma,65,305,15,355
+GHA,Ashanti,Atwima-Mponua,65,305,15,355
+GHA,Ashanti,Bekwai,66,305,16,355
+GHA,Ashanti,Bosome Freho,66,305,16,355
+GHA,Ashanti,Bosomtwe,66,305,16,355
+GHA,Ashanti,Ejisu,66,304,16,354
+GHA,Ashanti,Ejura-Sekyedumase,69,305,19,355
+GHA,Ashanti,Juaben,66,304,16,354
+GHA,Ashanti,Kumasi,76,305,26,355
+GHA,Ashanti,Kwabre East,65,304,15,354
+GHA,Ashanti,Kwadaso,70,305,20,355
+GHA,Ashanti,Mampong,70,304,20,354
+GHA,Ashanti,Obuasi,79,304,29,354
+GHA,Ashanti,Offinso,71,305,21,355
+GHA,Ashanti,Offinso North,70,305,20,355
+GHA,Ashanti,Oforikrom,76,305,26,355
+GHA,Ashanti,Old Tafo,71,305,21,355
+GHA,Ashanti,Sekyere Afram Plains North,67,303,17,353
+GHA,Ashanti,Sekyere Central,71,305,21,355
+GHA,Ashanti,Sekyere East,66,304,16,354
+GHA,Ashanti,Sekyere Kumawu,71,304,21,354
+GHA,Ashanti,Sekyere South,76,304,26,354
+GHA,Bono,Banda,90,302,40,352
+GHA,Bono,Berekum East,68,303,18,353
+GHA,Bono,Dormaa West,72,308,22,358
+GHA,Bono,Jaman North,78,303,28,353
+GHA,Bono,Jaman South,77,303,27,353
+GHA,Bono,Sunyani,66,305,16,355
+GHA,Bono,Tain,77,303,27,353
+GHA,Bono,Wenchi,69,303,19,353
+GHA,Bono East,Atebubu-Amantin,88,302,38,352
+GHA,Bono East,Kintampo North,90,302,40,352
+GHA,Bono East,Kintampo South,79,302,29,352
+GHA,Bono East,Nkoranza North,69,302,19,352
+GHA,Bono East,Nkoranza South,69,304,19,354
+GHA,Bono East,Pru East,90,302,40,352
+GHA,Bono East,Pru West,90,302,40,352
+GHA,Bono East,Sene East,90,302,40,352
+GHA,Bono East,Sene West,90,302,40,352
+GHA,Bono East,Techiman,69,305,19,355
+GHA,Bono East,Techiman North,69,303,19,353
+GHA,Central,Upper Denkyira East,65,304,15,354
+GHA,Central,Upper Denkyira West,71,311,21,361
+GHA,Eastern,Abuakwa North,61,305,11,355
+GHA,Eastern,Akwapem North,67,305,17,355
+GHA,Eastern,Asuogyaman,67,305,17,355
+GHA,Eastern,Atiwa East,66,304,16,354
+GHA,Eastern,Birim North,66,304,16,354
+GHA,Eastern,Fanteakwa North,66,304,16,354
+GHA,Eastern,Fanteakwa South,61,304,11,354
+GHA,Eastern,Kwahu Afram Plains North,89,304,39,354
+GHA,Eastern,Kwahu Afram Plains South,67,304,17,354
+GHA,Eastern,Kwahu East,66,304,16,354
+GHA,Eastern,Kwahu South,67,304,17,354
+GHA,Eastern,Kwahu West,67,304,17,354
+GHA,Eastern,Lower Manya-Krobo,62,305,12,355
+GHA,Eastern,New Juaben North,61,305,11,355
+GHA,Eastern,New Juaben South,65,305,15,355
+GHA,Eastern,Okere,65,305,15,355
+GHA,Eastern,Upper Manya,61,305,11,355
+GHA,Eastern,Yilo-Krobo,61,305,11,355
+GHA,Greater Accra,Ablekuma Central,72,191,22,241
+GHA,Greater Accra,Ablekuma West,72,191,22,241
+GHA,Greater Accra,Accra,72,191,22,241
+GHA,Greater Accra,Ada East,71,199,21,249
+GHA,Greater Accra,Ada West,71,186,21,236
+GHA,Greater Accra,Adenta,67,186,17,236
+GHA,Greater Accra,Ashaiman,67,186,17,236
+GHA,Greater Accra,Ayawaso West,84,186,34,236
+GHA,Greater Accra,Ga East,72,186,22,236
+GHA,Greater Accra,Korle-Klottey,72,191,22,241
+GHA,Greater Accra,Kpone-Katamanso,67,191,17,241
+GHA,Greater Accra,La-Dade-Kotopon,84,191,34,241
+GHA,Greater Accra,Ledzokuku,88,187,38,237
+GHA,Greater Accra,Ningo-Prampram,67,186,17,236
+GHA,Greater Accra,Okaikwei North,84,191,34,241
+GHA,Greater Accra,Shai Osudoku,63,186,13,236
+GHA,Greater Accra,Tema,71,187,21,237
+GHA,Greater Accra,Tema West,88,187,38,237
+GHA,North East,Bunkpurugu Nakpanduri,116,286,66,336
+GHA,North East,Chereponi,116,290,66,340
+GHA,North East,East Mamprusi,116,284,66,334
+GHA,North East,Mamprugu Moagduri,116,283,66,333
+GHA,North East,West Mamprusi,116,285,66,335
+GHA,North East,Yunyoo-Nasuan,116,283,66,333
+GHA,Northern,Gushegu,115,291,65,341
+GHA,Northern,Karaga,115,291,65,341
+GHA,Northern,Kpandai,102,301,52,351
+GHA,Northern,Kumbungu,110,291,60,341
+GHA,Northern,Mion,115,295,65,345
+GHA,Northern,Nanton,110,295,60,345
+GHA,Northern,Nanumba North,116,301,66,351
+GHA,Northern,Nanumba South,143,301,93,351
+GHA,Northern,Saboba,115,291,65,341
+GHA,Northern,Sagnerigu,110,291,60,341
+GHA,Northern,Savelugu,111,291,61,341
+GHA,Northern,Tamale,110,291,60,341
+GHA,Northern,Tatale Sanguli,130,298,80,348
+GHA,Northern,Tolon,110,291,60,341
+GHA,Northern,Yendi,115,292,65,342
+GHA,Northern,Zabzugu,131,297,81,347
+GHA,Oti,Biakoye,89,304,39,354
+GHA,Oti,Jasikan,89,303,39,353
+GHA,Oti,Kadjebi,90,304,40,354
+GHA,Oti,Krachi East,104,302,54,352
+GHA,Oti,Krachi Nchumuru,102,303,52,353
+GHA,Oti,Krachi West,116,302,66,352
+GHA,Oti,Nkwanta North,143,300,93,350
+GHA,Oti,Nkwanta South,102,300,52,350
+GHA,Savannah,Bole,91,302,41,352
+GHA,Savannah,Central Gonja,94,298,44,348
+GHA,Savannah,East Gonja,90,300,40,350
+GHA,Savannah,North East Gonja,110,301,60,351
+GHA,Savannah,North Gonja,109,294,59,344
+GHA,Savannah,Sawla-Tuna-Kalba,109,296,59,346
+GHA,Savannah,West Gonja,94,296,44,346
+GHA,Upper East,Bawku,122,285,72,335
+GHA,Upper East,Bawku West,116,284,66,334
+GHA,Upper East,Binduri,122,285,72,335
+GHA,Upper East,Bolga East,122,284,72,334
+GHA,Upper East,Bolgatanga,121,283,71,333
+GHA,Upper East,Bongo,122,284,72,334
+GHA,Upper East,Builsa North,122,278,72,328
+GHA,Upper East,Builsa South,116,283,66,333
+GHA,Upper East,Garu,122,285,72,335
+GHA,Upper East,Kasena Nankana East,122,283,72,333
+GHA,Upper East,Kasena Nankana West,122,278,72,328
+GHA,Upper East,Nabdam,122,284,72,334
+GHA,Upper East,Pusiga,123,283,73,333
+GHA,Upper East,Talensi,116,284,66,334
+GHA,Upper East,Tempane,122,283,72,333
+GHA,Upper West,Daffiama-Bussie-Issa,116,281,66,331
+GHA,Upper West,Jirapa,120,283,70,333
+GHA,Upper West,Lambussie-Karni,123,283,73,333
+GHA,Upper West,Lawra,120,284,70,334
+GHA,Upper West,Nadowli-Kaleo,116,284,66,334
+GHA,Upper West,Nandom,123,280,73,330
+GHA,Upper West,Sissala East,116,281,66,331
+GHA,Upper West,Sissala West,119,281,69,331
+GHA,Upper West,Wa East,116,288,66,338
+GHA,Upper West,Wa Municipal,109,285,59,335
+GHA,Upper West,Wa West,114,285,64,335
+GHA,Volta,Afadzato South,89,305,39,355
+GHA,Volta,Akatsi South,78,197,28,247
+GHA,Volta,Anloga,88,197,38,247
+GHA,Volta,Ho Municipal,67,305,17,355
+GHA,Volta,Ho West,67,305,17,355
+GHA,Volta,Hohoe,89,305,39,355
+GHA,Volta,Keta Municipal,88,197,38,247
+GHA,Volta,Ketu South,78,197,28,247
+GHA,Volta,Kpando,90,303,40,353
+GHA,Volta,North Dayi,89,305,39,355
+GHA,Volta,North Tongu,67,305,17,355
+GHA,Volta,South Dayi,67,305,17,355
+GHA,Volta,South Tongu,78,198,28,248
+GHA,Western North,Bibiani-Anhwiaso-Bekwai-,72,310,22,360
+GHA,Western North,Bodi,61,305,11,355
+GHA,Western North,Sefwi-Akontombra,65,311,15,361
+GHA,Western North,Sefwi-Wiawso,67,305,17,355

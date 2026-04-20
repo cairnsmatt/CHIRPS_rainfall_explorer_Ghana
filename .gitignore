@@ -1,0 +1,26 @@
+# Ignore everything in the root by default
+/*
+
+# Opt in with ! to keep folders 
+!/src/
+!/streamlit/
+!/data/
+!/shapefiles/
+
+# Keep these root files in Git
+!.gitignore
+!.gitattributes
+!README.md
+!LICENSE
+
+# Explicitly remove Python junk anywhere from Git
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.ipynb_checkpoints/
+
+# If you ever create these, don’t track them
+.DS_Store
+Thumbs.db
