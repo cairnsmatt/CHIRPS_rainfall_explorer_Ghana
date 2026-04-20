@@ -10,6 +10,7 @@
 # Keep these root files in Git
 !.gitignore
 !.gitattributes
+!requirements.txt
 !README.md
 !LICENSE
 
