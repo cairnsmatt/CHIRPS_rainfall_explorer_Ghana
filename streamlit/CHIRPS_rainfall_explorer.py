@@ -956,7 +956,7 @@ with rainfall_onset_tab:
 
             if not gdf_for_rainfall_onset.empty:
                 
-                st.subheader(f"Rainfall Onset Map for {selected_country} - {selected_water_season}")          
+                st.subheader(f"Rainfall Onset Map for {selected_country}\n{selected_water_season}")          
 
                 fig, ax = map_onset_or_cessation_from_water_season_gdf(
                     gdf_for_rainfall_onset,
@@ -982,7 +982,7 @@ with rainfall_onset_tab:
 
             if not gdf_for_rainfall_onset.empty:
 
-                st.subheader(f"Rainfall Cessation Map for {selected_country} - {selected_water_season}")
+                st.subheader(f"Rainfall Cessation Map for {selected_country}\n{selected_water_season}")
 
                 fig, ax = map_onset_or_cessation_from_water_season_gdf(
                     gdf_for_rainfall_onset,
