@@ -544,7 +544,7 @@ with time_series_tab:
 with seasonality_metrics_tab:
 
     st.markdown(
-        f"### Seasonality Plots and Metrics for for '{st.session_state.selected_area} - ({st.session_state.selected_admin1})'" 
+        f"### Seasonality Plots and Metrics for '{st.session_state.selected_area} - ({st.session_state.selected_admin1})'" 
         f"&emsp;<span style='color:#5DADE2;'>Scroll Down to View/Download the Metrics Data Frame</span>",
         unsafe_allow_html=True
     )
@@ -837,7 +837,7 @@ yearly_water_season_df = polars_load_df_and_filter_to_selected_admin1_and_area(
 
 with climatology_tab:
 
-    st.subheader(f"Climatology for for '{st.session_state.selected_area} - ({st.session_state.selected_admin1})'")
+    st.subheader(f"Climatology for '{st.session_state.selected_area} - ({st.session_state.selected_admin1})'")
 
     if st.session_state.selected_area != "-- Select an area --":
 
